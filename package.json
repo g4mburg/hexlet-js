@@ -1,0 +1,19 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "мой первый npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/g4mburg/hexlet-js.git"
+  },
+  "author": "g4mburg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g4mburg/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/g4mburg/hexlet-js#readme"
+}
